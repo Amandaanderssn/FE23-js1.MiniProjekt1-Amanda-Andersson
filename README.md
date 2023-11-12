@@ -1,1 +1,1 @@
-# FE23-js1.MiniProjekt1-Amanda-Andersson
+# fe23-js1.mp1-amanda-andersson
